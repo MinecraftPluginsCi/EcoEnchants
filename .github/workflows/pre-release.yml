@@ -40,5 +40,5 @@ jobs:
             eco-core/core-stub/build/libs/core-stub-*.jar
             eco-core/core-plugin/build/libs/core-plugin-*.jar
             eco-core/core-proxy/build/libs/core-proxy-*.jar
-            bin/EcoEnchants v*.jar
+            bin/*.jar
             LICENSE
